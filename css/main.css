@@ -1,0 +1,365 @@
+body {
+  color: #777;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.625em;
+  position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins", sans-serif;
+  color: #222;
+  line-height: 1.2em !important;
+  margin-bottom: 0;
+  margin-top: 20px;
+  font-weight: 600;
+}
+.titlemain {
+  color: #fff;
+}
+.relative {
+  position: relative;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.titlemain {
+  padding-top: 90px;
+}
+.container.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.no-padding {
+  padding: 0;
+}
+.section-bg {
+  background: #f9fafc;
+}
+#header {
+  padding: 28px 0;
+  margin: 20px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: all 0.5s;
+  z-index: 4;
+}
+
+#header #logo h1 {
+  font-size: 34px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.ticker-btn {
+  background: #baea15;
+  color: rgb(0, 0, 0) !important;
+  padding: 6px 20px !important;
+  text-transform: uppercase;
+}
+.nav-menu,
+.nav-menu * {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.nav-menu ul {
+  position: absolute;
+  display: none;
+  top: 100%;
+  left: 0;
+  z-index: 2;
+}
+.nav-menu li {
+  position: relative;
+  white-space: nowrap;
+}
+.nav-menu > li {
+  float: left;
+}
+.nav-menu li:hover > ul,
+.nav-menu li.sfHover > ul {
+  display: block;
+}
+.nav-menu ul ul {
+  top: 0;
+  left: 100%;
+}
+.nav-menu ul li {
+  min-width: 180px;
+  text-align: left;
+}
+
+@media (min-width: 1024px) {
+  #nav-menu-container {
+    padding-right: 60px;
+  }
+}
+@media (max-width: 768px) {
+  #nav-menu-container {
+    display: none;
+  }
+}
+.nav-menu a {
+  padding: 6px 10px;
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  font-weight: 400;
+  font-size: 12px;
+  text-transform: uppercase;
+  outline: none;
+}
+.nav-menu > li {
+  margin-left: 10px;
+}
+.nav-menu ul {
+  margin: 16px 0 0 0;
+  padding: 10px;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  background: #fff;
+}
+.nav-menu ul li {
+  transition: 0.3s;
+}
+.nav-menu ul li a {
+  padding: 10px;
+  color: #333;
+  transition: 0.3s;
+  display: block;
+  font-size: 12px;
+  text-transform: none;
+}
+.nav-menu ul li:hover > a {
+  color: #baea15;
+}
+.nav-menu ul ul {
+  margin: 0;
+}
+
+.section-gap {
+  padding: 120px 0;
+}
+.section-title {
+  padding-bottom: 30px;
+}
+.section-title h2 {
+  margin-bottom: 20px;
+}
+.section-title p {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.banner-area {
+  background: url(../img/CM_laptops.jpg) center;
+  background-size: cover;
+}
+.banner-area .overlay-bg {
+  background: rgba(48, 48, 48, 0.85);
+}
+.banner-content {
+  text-align: center;
+  z-index: 1;
+  padding-bottom: 30px;
+}
+.banner-content h1 {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 1em;
+  margin-top: 20px;
+}
+.banner-content h1 span {
+  font-weight: 700;
+}
+
+@media (max-width: 400px) {
+  .banner-content h1 {
+    font-size: 32px;
+  }
+}
+.banner-content h6 {
+  text-transform: uppercase;
+  color: #8ab92d;
+  letter-spacing: 3;
+  font-weight: 400;
+}
+
+.banner-content h4 {
+  color: #fff;
+  margin-bottom: 6px;
+  font-weight: 300;
+}
+.banner-content .lnr {
+  color: #baea15;
+  margin-right: 10px;
+}
+.primary-btn {
+  background: #fff;
+  border: 1px solid transparent;
+  color: #222;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 50px;
+}
+
+.home-area {
+  background-color: #f9f9ff;
+}
+.snip-area {
+  background-color: #f9f9ff;
+}
+.home-area .about-right {
+  padding-right: 10%;
+}
+.home-area .about-right p span {
+  font-weight: 500;
+  color: #222;
+}
+.home-area .about-right .top-title {
+  color: #baea15;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.home-area .about-right h1 {
+  margin-bottom: 20px;
+}
+@media (max-width: 1366px) {
+  .home-area .about-right {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 40px;
+  }
+  .home-area .about-right h1 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 990px) {
+  .home-area .about-right {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+.home-aboutus-area {
+  background-color: #222;
+}
+.home-aboutus-area .top-title {
+  background-color: #baea15;
+  color: #baea15;
+  letter-spacing: 2px;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.home-aboutus-area .about-right {
+  padding-right: 8%;
+}
+.home-aboutus-area .about-right h1 {
+  margin-bottom: 15px;
+}
+.home-aboutus-area .about-right p span {
+  color: #fff;
+  font-weight: 500;
+}
+@media (max-width: 1366px) {
+  .home-aboutus-area .about-right {
+    padding: 30px;
+  }
+  .home-aboutus-area .about-right h1 {
+    font-size: 24px;
+  }
+  .home-aboutus-area .about-right p span {
+    font-size: 12px;
+  }
+}
+
+.single-img img {
+  filter: grayscale(100%);
+}
+
+@media (max-width: 800px) {
+  .single-img img {
+    margin-bottom: 40px;
+  }
+}
+.calltoaction-area {
+  background: url(../img/banner.jpg) center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+.calltoaction-area p {
+  padding: 20px 0;
+}
+.calltoaction-area .overlay-bg {
+  background-color: rgba(4, 9, 30, 0.75);
+}
+.calltoaction-btn {
+  background-color: #8ab92d;
+  color: #fff;
+  border: 1px solid transparent;
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.footer-area {
+  padding-top: 100px;
+  background-color: #04091e;
+}
+h6 {
+  color: #fff;
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .footer-social {
+    text-align: left;
+  }
+}
+
+@media (max-width: 900px) {
+  .single-footer-widget {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 900px) {
+  .social-widget {
+    margin-top: 30px;
+  }
+}
+.footer-text {
+  padding-top: 20px;
+}
+.footer-text a,
+.footer-text i {
+  color: #8ab92d;
+}
