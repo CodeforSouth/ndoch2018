@@ -1,4 +1,4 @@
-# Hack For Change 2018
+# National Day Of Civic Hacking 2018
 
 ## What
 
