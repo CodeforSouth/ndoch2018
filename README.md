@@ -1,22 +1,52 @@
 # National Day Of Civic Hacking 2018
 
-## What
+### [Registration (EventBrite)](https://www.eventbrite.com/e/national-day-of-civic-hacking-2018-code-for-miami-tickets-47450617073)
 
-Code for Miami's 2018 Hack For Change Event Page
+### About
 
-#### Status
+Government works best when it’s government by the People. On August 11th, join Code for Miami and the
+Code for America Brigades as we host National Day of Civic Hacking–a nationwide day of action to bring together
+civic leaders to work with our local governments to tackle some our toughest challenges.
 
-Working on Revisions.
+This event will bring together urbanists, civic hackers, government staff, developers, designers, community organizers
+and anyone with the passion to make our city better. We will collaboratively build new solutions using
+publicly-released data, technology, and design processes to improve our communities and the governments that serve them.
+Anyone can participate; you don’t have to be an expert in technology, you just have to care about your neighborhood and community.
 
-## Why
+### Location
 
-## Who
+```
+CIC Miami
+1951 Northwest 7th Avenue
+6th Floor Cafe
+Miami, FL 33136
+```
 
-## How
+### Schedule
 
-It's a static site hosted on Github Pages.
+| Time         | Description
+| ------------ |:-------------
+| 09:00 am     | Registration; Doors Open
+| 09:30 am     | Opening Remarks / Civic Hacking 101
+| 10:00 am     | Group Pitches / Break Into Groups
+| 12:30 pm     | Lunch
+| 01:30 pm     | Volunteer Worksheet
+| 04:30 pm     | Closing Presentations
+| 05:00 pm     | After Party
 
-No Build Tools.
+### Speakers
+
+- Urban Impact Lab
+- Miami Transit Alliance
+- VolunteerCleanup.org
+- Catalyst Miami
+- FIU Sea Level Solutions Center
+
+### Sponsors
+
+- [BoxElder](http://www.bxldr.com)
+- CIC
+- Urban Impact Lab
 
 ## Contribute
 If you would like to contribute please read our guidelines. [CONTRIBUTING](CONTRIBUTING.md)
