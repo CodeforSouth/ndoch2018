@@ -37,17 +37,18 @@ Miami, FL 33136
 
 ### Speakers
 
-- Urban Impact Lab
-- Miami Transit Alliance
-- VolunteerCleanup.org
-- Catalyst Miami
-- FIU Sea Level Solutions Center
+- [Urban Impact Lab](http://www.urbanimpactlab.com/)
+- [Miami Transit Alliance](https://transitalliance.miami/)
+- [VolunteerCleanup.org](http://www.volunteercleanup.org/)
+- [Catalyst Miami](https://catalystmiami.org/)
+- [FIU Sea Level Solutions Center](https://slsc.fiu.edu/)
 
 ### Sponsors
 
 - [BoxElder](http://www.bxldr.com)
-- CIC
-- Urban Impact Lab
+- [The Daily](http://www.thedailyfood.co/)
+- [CIC](https://cic.com/miami/)
+- [Urban Impact Lab](http://www.urbanimpactlab.com/)
 
 ## Contribute
 If you would like to contribute please read our guidelines. [CONTRIBUTING](CONTRIBUTING.md)
