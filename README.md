@@ -2,6 +2,8 @@
 
 ### [Registration (EventBrite)](https://www.eventbrite.com/e/national-day-of-civic-hacking-2018-code-for-miami-tickets-47450617073)
 
+### [Idea to Prototype Checklist](https://tinyurl.com/codeformiami)
+
 ### About
 
 Government works best when it’s government by the People. On August 11th, join Code for Miami and the
