@@ -8,7 +8,7 @@
 
 Government works best when it’s government by the People. On August 11th, join Code for Miami and the
 Code for America Brigades as we host National Day of Civic Hacking–a nationwide day of action to bring together
-civic leaders to work with our local governments to tackle some our toughest challenges.
+civic leaders to work with our local governments to tackle some of our toughest challenges.
 
 This event will bring together urbanists, civic hackers, government staff, developers, designers, community organizers
 and anyone with the passion to make our city better. We will collaboratively build new solutions using
