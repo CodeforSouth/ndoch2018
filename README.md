@@ -29,7 +29,7 @@ Miami, FL 33136
 | Time         | Description
 | ------------ |:-------------
 | 09:00 am     | Registration; Doors Open ; Breakfast 
-| 09:30 am     | Opening Remarks / Civic Hacking 101
+| 09:30 am     | Opening Remarks / Civics 101
 | 10:00 am     | Organization Pitches 
 | 10:30 am     | Break Into Groups with Organization Leader
 | 1:00 pm     | Lunch
